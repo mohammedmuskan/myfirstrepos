@@ -1,3 +1,3 @@
 Name: MOHAMMED MUSKAN
 Course: BCA
-One thing I learned about Hackerthon: Hackathons are events where people collaborate intensively to build creative solutions, usually within a short time frame, helping to develop teamwork, coding, and problem-solving skills.
+One thing I learned about Github: Is that all the code, files, and history of a project are stored in a repository, which makes it easy to organize and share with others.
